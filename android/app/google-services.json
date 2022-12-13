@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003440114169",
+    "project_id": "greengrocer-60be7",
+    "storage_bucket": "greengrocer-60be7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003440114169:android:e4ece74ca0ec6831ccd528",
+        "android_client_info": {
+          "package_name": "com.example.gstore_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003440114169-pvcbe26o0mbe7h7aebgbfh0mem0lqsgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV8IVJpyiyoRidSFPcHhUXf7n6W9W9RyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003440114169-pvcbe26o0mbe7h7aebgbfh0mem0lqsgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
